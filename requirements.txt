@@ -1,0 +1,9 @@
+opencv-python
+tqdm
+tensorboard
+addict
+sklearn
+pathspec
+imagesize
+ujson
+pip install --extra-index-url https://developer.download.nvidia.com/compute/redist --upgrade nvidia-dali-cuda110
