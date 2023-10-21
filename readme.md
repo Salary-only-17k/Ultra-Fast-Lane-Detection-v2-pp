@@ -1,4 +1,5 @@
 # [Find a full-time job]
+https://blog.csdn.net/weixin_39875161/article/details/131502642#comments_28397427
 # 改进
 
 UFLD-v2是一个非常优秀的车道线检测模型。也有一些问题。
